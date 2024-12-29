@@ -1,30 +1,14 @@
-﻿# Personal Finance Tracker
+﻿# Quiz Project with ReactJS
 
-A personal finance tracker built with React for the frontend and Node.js with Express for the backend. This application allows users to manage their transactions effectively, providing features for adding, editing, deleting, and viewing transaction details.
+This ReactJS project is meant for answering 4 quizzes.
 
-## Features
+## How to run
 
-- **User-friendly Interface:** Easy navigation and intuitive design using Ant Design.
-- **CRUD Operations:** Create, Read, Update, and Delete transactions.
-- **Sort Transactions:** Sort transactions by ID, date, and other fields.
-- **Data Persistence:** Store transaction data in a PostgreSQL database.
+In the project directory, you can run: `npm start`
 
-## Tech Stack
+Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- **Frontend:**
-  - React
-  - Ant Design
-  - Axios for API calls
+The page will reload when you make changes.
+You may also see any lint errors in the console.
 
-- **Backend:**
-  - Node.js
-  - Express
-  - PostgreSQL for database management
-
-## Installation
-
-### Prerequisites
-
-- Node.js
-- PostgreSQL
-- Git
