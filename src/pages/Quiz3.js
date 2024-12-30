@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const Quiz3Table = () => {
+const Quiz3 = () => {
   const [array1, setArray1] = useState([
     { Code: 101, Name: "AAA" },
     { Code: 102, Name: "BBB" },
@@ -250,4 +250,4 @@ const Quiz3Table = () => {
   );
 };
 
-export default Quiz3Table;
+export default Quiz3;
